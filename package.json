@@ -12,7 +12,12 @@
     "react-scripts": "3.1.2",
     "uuid": "3.3.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "react-styleguidist": "^9.1.16",
+    "react-test-renderer": "^16.9.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
