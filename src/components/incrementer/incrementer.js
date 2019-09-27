@@ -9,7 +9,7 @@ function Increment () {
         <CounterContext.Consumer>
             {context => (
 
-                <button onClick={context.increment}>Increment</button>
+                <button style={spanStyle} onClick={context.increment}>Increment</button>
             
             )}
 
@@ -19,5 +19,13 @@ function Increment () {
     
 }
 
+const spanStyle ={
+    color: 'white',
+    backgroundColor: 'blue',
+    fontSize: '100px',
+    textAlign: 'center',
+    margin: '10px'
+
+  }
 
 export default Increment;
