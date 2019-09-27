@@ -10,10 +10,11 @@
     "docs:build": "styleguidist build",
     "lint": "eslint src/**/*.js"
 ### Links and Resources
-*[Heroku]()
+*[Heroku](https://lab-33-react-context.herokuapp.com/)
+Heroku is not working but code works well locally
 * [submission PR](http://xyz.com)
 
-* [travis]()
+* [travis](https://www.travis-ci.com/401-advanced-javascript-hanna-alemu/lab-33-context-Api)
 #### Documentation
 * [styleguide](http://xyz.com) (React assignments)
 #### Running the app
